@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyStructDemo</string>
+    <string name="turn_to_lib_demo">跳转到lib_demo</string>
+</resources>

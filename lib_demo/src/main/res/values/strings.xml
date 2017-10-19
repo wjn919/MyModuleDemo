@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lib_main</string>
+    <string name="turn_to_lib_test">跳转到lib_test</string>
+</resources>
